@@ -30,7 +30,7 @@ Reference examples of our in the box tasks [are here](https://github.com/Microso
 
 Cross platform tasks are written in TypeScript.  It is the preferred way to write tasks once.
 
-[![NPM version][npm-lib-image]][npm-lib-url] ![VSTS]
+[![NPM version][npm-lib-image]][npm-lib-url] 
 
 Documentation: [Creating Node Tasks with the Typescript API](node/README.md)
 
