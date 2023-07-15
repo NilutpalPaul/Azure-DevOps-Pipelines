@@ -1,5 +1,5 @@
 
-# Azure Pipelines Task SDK
+# Azure DevOps Pipelines
 
 Libraries for writing [Azure Pipelines](https://azure.microsoft.com/en-us/services/devops/pipelines/) tasks
 
